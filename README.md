@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Krusty Krab**
+ 🔭 I’m currently working on **Edi sa puso mo**
  
  🌱 I’m currently learning **,MERN STACK**
 
