@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Krusty Krab***
+ 🔭 I’m currently working on **Krusty Krab**
  
  🌱 I’m currently learning **,MERN STACK**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Water Is Wet**
+⚡ Fun fact **I am Wet**
 
  </div>
  
