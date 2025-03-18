@@ -6,11 +6,6 @@
 
 <h3 align="center">A passionate software developer from Philippines</h3>
 
-
-Edit this it should be for this user
-
-https://github.com/TonYacapin
-
 <br/>
 
 <div align="center">
