@@ -1,10 +1,15 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TonYacapin.TonYacapin" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kamusta?!+👋;+I'm+TonYacapin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kamusta?!+👋;+I'm+Abakus!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from the Philippines</h3>
+<h3 align="center">A passionate software developer from Philippines</h3>
+
+
+Edit this it should be for this user
+
+https://github.com/TonYacapin
 
 <br/>
 
@@ -12,13 +17,13 @@
  
  🔭 I’m currently working on **Edi sa puso mo**
  
- 🌱 I’m currently learning **MERN STACK**
+ 🌱 I’m currently learning **,MERN STACK**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/TonYacapin/TonYacapin/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **I am Wet**
 
-</div>
+ </div>
  
 <div align="center"> 
   <a href="mailto:yacapinton@gmail.com">
@@ -27,8 +32,8 @@
   <a href="https://www.linkedin.com/in/yacapin-angel-hamelton-o-2b8271304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://TonYacapin.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -47,7 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TonYacapin/TonYacapin/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
