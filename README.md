@@ -14,10 +14,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:yacapinton@@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/yacapin-angel-hamelton-o-2b8271304/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://abakusportfolio.vercel.app/">
