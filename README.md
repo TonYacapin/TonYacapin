@@ -4,12 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=TonYacapin&style=flat-square&color=gray" alt="Profile views counter" />
 </p>
 
-## 🧑‍💻 About Me
+##🧑‍💻 About Me
+Hi! I'm Angel Hamelton O. Yacapin, a passionate Software Engineer and Full-Stack Developer from the Philippines, specializing in the MERN stack and modern JavaScript technologies.
 
-- 🔭 I'm currently working on **Edi sa puso mo**
-- 🌱 I'm currently learning **MERN STACK**
-- 💬 Ask me about **Node.js, React, Firebase... or anything**
-- ⚡ Fun fact: **I am Wet**
+🔭 Currently building: "ATS" — an Applicant Tracking System with Decision Support System ❤️
+
+🌱 Continuously learning and growing in MongoDB, Express, React, and Node.js
+
+💬 Open to conversations about Web Development, Game Development, or anything tech
+
 
 ## 🌐 Connect with Me
 
