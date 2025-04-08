@@ -1,80 +1,86 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hi there 👋, I'm Ton Yacapin (Abakus)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kamusta?!+👋;+I'm+Abakus!;" />
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TonYacapin&style=flat-square&color=gray" alt="Profile views counter" />
+</p>
 
-<h3 align="center">A passionate software developer from Philippines</h3>
+## 🧑‍💻 About Me
 
-<br/>
+- 🔭 I'm currently working on **Edi sa puso mo**
+- 🌱 I'm currently learning **MERN STACK**
+- 💬 Ask me about **Node.js, React, Firebase... or anything**
+- ⚡ Fun fact: **I am Wet**
 
-<div align="center">
- 
- 🔭 I’m currently working on **Edi sa puso mo**
- 
- 🌱 I’m currently learning **,MERN STACK**
+## 🌐 Connect with Me
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **I am Wet**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:yacapinton@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/yacapin-angel-hamelton-o-2b8271304/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://abakusportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+## 🛠️ Languages-Frameworks-Tools 🛠️
 
-<br/>
-<hr/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonYacapin/TonYacapin/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonYacapin/TonYacapin/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TonYacapin/TonYacapin/output/pacman-contribution-graph.svg">
-  </picture>
-  
-  <br/><br/><br/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-<hr/>
+## 📊 My GitHub Stats
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TonYacapin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TonYacapin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonYacapin&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonYacapin&show_icons=true&theme=graywhite" alt="GitHub Stats" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonYacapin&theme=graywhite" alt="GitHub Streak" />
+</p>
 
-<hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonYacapin&layout=compact&theme=graywhite" alt="Top Languages" />
+</p>
 
-<br/>
+## 🏆 My Contributions 🏆
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonYacapin&theme=graywhite" alt="Contribution Graph" />
+</p>
 
-<br/>
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+</p>
+
+<p align="center">☕ | Let's Go 🚀</p>
