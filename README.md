@@ -8,6 +8,8 @@
 
 Hi! I'm Angel Hamelton O. Yacapin, a passionate Software Engineer and Full-Stack Developer from the Philippines, specializing in the MERN stack and modern JavaScript technologies.
 
+Currently a graduating student
+
 🔭 Currently building: **"ATS"** — an Applicant Tracking System with Decision Support System ❤️  
 🌱 Continuously learning and growing in MongoDB, Express, React, and Node.js  
 💬 Open to conversations about Web Development, Game Development, or anything tech.
