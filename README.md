@@ -10,7 +10,7 @@ Hi! I'm Angel Hamelton O. Yacapin, a passionate Software Engineer and Full-Stack
 
 🔭 Currently building: **"ATS"** — an Applicant Tracking System with Decision Support System ❤️  
 🌱 Continuously learning and growing in MongoDB, Express, React, and Node.js  
-💬 Open to conversations about Web Development, Game Development, or anything tech  
+💬 Open to conversations about Web Development, Game Development, or anything tech.
 
 ## 🌐 Connect with Me
 
