@@ -4,6 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=TonYacapin&style=flat-square&color=FFA500" alt="Profile views counter" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY202NWJqc2g5NHhycGUycGZ3dDNzbml4cjgzNmg1ZXFobGdxZmVwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlyXjqAYnOAoVl6/giphy.gif" alt="Breaking Bad GIF" />
+
+
+</p>
+
 ## 🧑‍💻 About Me
 
 Hi! I'm Angel Hamelton O. Yacapin, a passionate Software Engineer and Full-Stack Developer from the Philippines, specializing in the MERN stack and modern JavaScript technologies.
