@@ -14,7 +14,7 @@
 
 Hi! I'm Angel Hamelton O. Yacapin, a passionate Software Engineer and Full-Stack Developer from the Philippines, specializing in the MERN stack and modern JavaScript technologies.
 
-Currently a Fresh Graduate
+Currently working as Software Engineer at Fullsuite 🚀
 
 🔭 Currently building: Side Projects ❤️  
 🌱 Continuously learning and growing in MongoDB, Express, React, and Node.js  
