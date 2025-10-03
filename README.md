@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m **Angel Hamelton O. Yacapin**, a Software Engineer and recent **BS Information Technology graduate (Academic Distinction)** from Saint Mary’s University.  
+I’m **Angel Hamelton O. Yacapin**, a Software Engineer and recent **BS Information Technology graduate** from Saint Mary’s University.  
 I specialize in **web and mobile development**, with hands-on experience in building scalable systems, decision-support tools, and modern full-stack applications.  
 
 - **OJT Intern @ Fullsuite** – Worked on an Applicant Tracking System with Decision Support features  
