@@ -1,3 +1,6 @@
+[![committers.top badge](https://user-badge.committers.top/philippines/TonYacapin.svg)](https://user-badge.committers.top/philippines/TonYacapin)
+![](https://komarev.com/ghpvc/?username=TonYacapin)
+
 # Ton Yacapin
 
 <p align="center">
