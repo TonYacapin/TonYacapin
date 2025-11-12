@@ -24,7 +24,7 @@ I specialize in **web and mobile development**, with hands-on experience in buil
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,vite,html,css,tailwind,bootstrap,materialui,nodejs,express,nestjs,dotnet,php,mongodb,mysql,sqlite,firebase,flutter,git,github,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,html,css,tailwind,bootstrap,materialui,nodejs,express,nextjs,dotnet,php,mongodb,mysql,sqlite,firebase,flutter,git,github,java,cs,python" />
 </p>
 
 ---
