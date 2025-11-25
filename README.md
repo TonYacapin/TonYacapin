@@ -1,86 +1,93 @@
 [![committers.top badge](https://user-badge.committers.top/philippines/TonYacapin.svg)](https://user-badge.committers.top/philippines/TonYacapin)
 ![](https://komarev.com/ghpvc/?username=TonYacapin)
 
-# Ton Yacapin
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=600&height=80&lines=ABAKUS" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding animation" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" width="300" alt="Coding animation" />
 </p>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I’m **Angel Hamelton O. Yacapin**, a Software Engineer and recent **BS Information Technology graduate** from Saint Mary’s University.  
-I specialize in **web and mobile development**, with hands-on experience in building scalable systems, decision-support tools, and modern full-stack applications.  
+## 🖤 About Me
+I’m **Angel Hamelton O. Yacapin**, a Software Engineer and **BS Information Technology** graduate.  
+I build **web + mobile systems**, decision-support tools, and scalable full-stack apps.
 
-- **OJT Intern @ Fullsuite** – Worked on an Applicant Tracking System with Decision Support features  
-- **Capstone Project** – PAAW: Portable Assistant for Animal Welfare, a system that transformed paper-based veterinary processes into a digital decision-support platform  
-- Strong interest in **web, mobile, and open-source development**  
-- Able to teach IT subjects: Web Development, Programming, Databases, Software Engineering  
+- **OJT @ Fullsuite** – ATS with Decision Support  
+- **Capstone** – PAAW: Digital DSS for PVSO  
+- Passion for **open-source, mobile dev, and system design**  
+- Teaches: Web Dev, Programming, Databases, Software Engineering  
 
 ---
 
-## Skills & Tools
-
+## ⚙️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,html,css,tailwind,bootstrap,materialui,nodejs,express,nextjs,dotnet,php,mongodb,mysql,sqlite,firebase,flutter,git,github,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vite,html,css,tailwind,nodejs,express,mongodb,mysql,git,github&theme=dark" />
 </p>
 
 ---
 
-## Projects & Experience
+## 🎓 Education & Certifications
+- BSIT – Saint Mary’s University (2025, Distinction)  
+- Flutter Mobile Development  
+- RESTful API Development  
+- ITIL V3 Foundation  
+- HackForGov 2024 (CTF)  
+- 1st Place – DICT National ICT Month 2024  
 
-- **PAAW (Capstone Project)** – Portable Assistant for Animal Welfare (Decision Support System for PVSO)  
-- **Fullsuite OJT Project** – Applicant Tracking System with integrated Decision Support  
+---
+
+## 📬 Contact
+<p align="center">
+  <a href="mailto:yacapinton@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yacapin-angel-hamelton-o-2b8271304/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+  <a href="https://tonyacapin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+## 🚀 Projects
+- **PAAW** – DSS for PVSO  
+- **Fullsuite ATS + DSS**  
 - **Personal Projects**  
-  - Portfolio Website  
-  - Barbershop Income Tracking w/ Decision Support  
-  - PocketSavr – gamified expense tracker
-  - Mindful - Moodtracker & Journaling App
-  - ExTra - Expense Tracker
-- **Featured School Projects (2023–2024)**  
-  - SPAZIO: Real Estate Advertising Platform  
-  - Savemore Supermarket Online Market  
-  - Restaurant Website  
+  - Portfolio  
+  - Barbershop DSS  
+  - PocketSavr  
+  - Mindful  
+  - ExTra  
+- **School Projects**  
+  - SPAZIO  
+  - Savemore  
+  - Restaurant Site  
+  - Moncker Game  
 
 ---
 
-## Education
-
-- **BS in Information Technology** – Saint Mary’s University (2025, with Academic Distinction, consistent Dean’s Lister)  
-- Certifications:  
-  - Mobile Development (Flutter)  
-  - RESTful API Development  
-  - ITIL V3 Foundation  
-  - HackForGov 2024 (CTF)  
-  - 1st Place – DICT National ICT Month 2024  
-
----
-
-## Contact
-
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:yacapinton@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yacapin-angel-hamelton-o-2b8271304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tonyacapin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonYacapin&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonYacapin&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonYacapin&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TonYacapin&theme=dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonYacapin&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonYacapin&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>🎓 Built on curiosity · ☕ Fueled by coffee · 🚀 Always learning</sub>
+  <sub>🚀 Always improving</sub>
 </p>
+
+</td>
+</tr>
+</table>
